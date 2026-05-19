@@ -1,0 +1,5 @@
+You need these libraries
+
+customtkinter==5.2.2
+pillow==11.0.0
+cryptography==43.0.1
